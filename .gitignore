@@ -1,0 +1,2 @@
+# You shouldn't include the node_modules folder in your git repo
+node_modules
